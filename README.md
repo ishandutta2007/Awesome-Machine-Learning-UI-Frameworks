@@ -14,7 +14,7 @@
 
 ### 🌟 A Curated Directory of SaaS Platforms & Open-Source Python UI Builders for ML, Data Science & GenAI Applications
 
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Machine-Learning-UI-Frameworks?style=social)](https://github.com/ishandutta2007/Awesome-Machine-Learning-UI-Frameworks/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Machine-Learning-UI-Frameworks?style=social)](https://github.com/ishandutta2007/Awesome-Machine-Learning-UI-Frameworks/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Machine-Learning-UI-Frameworks?style=social)](https://github.com/ishandutta2007/Awesome-Machine-Learning-UI-Frameworks/network/members)
 
 </div>
@@ -67,75 +67,75 @@ The following hosted deployment environments and managed cloud platforms streaml
 
 ## 💻 Open-Source Frameworks & Libraries
 
-These open-source libraries enable you to build interactive machine learning interfaces and dashboards locally and deploy them on your own infrastructure without vendor lock-in. Sorted in descending order by **GitHub Stars**:
+These open-source libraries enable you to build interactive machine learning interfaces and dashboards locally and deploy them on your own infrastructure without vendor lock-in. Sorted in descending order by **GitHub_Stars**:
 
-1. **[Streamlit](https://github.com/streamlit/streamlit)** [![GitHub Stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers)  
+1. **[Streamlit](https://github.com/streamlit/streamlit)** [![GitHub_Stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers)  
    ⚡ **The fastest path from Python script to interactive web application.**  
    * **License**: Apache-2.0  
    * **Key Strengths**: Reruns script top-to-bottom on interaction without requiring manual state management boilerplate; massive ecosystem of third-party custom components; native charting with Altair, Plotly, and PyDeck.  
    * **Best For**: Rapid prototyping, exploratory data apps, internal analysis tools, and fast ML proof-of-concepts.
 
-2. **[Gradio](https://github.com/gradio-app/gradio)** [![GitHub Stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers)  
+2. **[Gradio](https://github.com/gradio-app/gradio)** [![GitHub_Stars](https://img.shields.io/github/stars/gradio-app/gradio?style=social&color=white)](https://github.com/gradio-app/gradio/stargazers)  
    🤖 **The universal standard for machine learning, multimodal, and Generative AI demos.**  
    * **License**: Apache-2.0  
    * **Key Strengths**: Effortless interface generation for inputs/outputs (audio, video, images, text, and dataframes); built-in WebSocket streaming, queue management, and native integration with Hugging Face Spaces.  
    * **Best For**: Multimodal model demonstrations, LLM chatbots, quick API client wrappers, and reproducible research demos.
 
-3. **[Reflex](https://github.com/reflex-dev/reflex)** [![GitHub Stars](https://img.shields.io/github/stars/reflex-dev/reflex?style=social&color=white)](https://github.com/reflex-dev/reflex/stargazers)  
+3. **[Reflex](https://github.com/reflex-dev/reflex)** [![GitHub_Stars](https://img.shields.io/github/stars/reflex-dev/reflex?style=social&color=white)](https://github.com/reflex-dev/reflex/stargazers)  
    🌐 **Pure Python full-stack web apps compiled directly to React and Next.js.**  
    * **License**: Apache-2.0  
    * **Key Strengths**: Write both frontend components and backend logic entirely in Python while generating standard React/Next.js client code; flexible state management with bi-directional WebSockets.  
    * **Best For**: Production-scale data web apps, complex internal portals, and full-stack SaaS prototypes requiring complete styling control.
 
-4. **[Dash (Plotly)](https://github.com/plotly/dash)** [![GitHub Stars](https://img.shields.io/github/stars/plotly/dash?style=social&color=white)](https://github.com/plotly/dash/stargazers)  
+4. **[Dash (Plotly)](https://github.com/plotly/dash)** [![GitHub_Stars](https://img.shields.io/github/stars/plotly/dash?style=social&color=white)](https://github.com/plotly/dash/stargazers)  
    📈 **Enterprise-grade reactive web applications built on Flask, React, and Plotly.js.**  
    * **License**: MIT  
    * **Key Strengths**: Declarative callback architecture offering precise control over DOM elements, user events, and reactive state; background tasks with Celery/Redis; unparalleled interactive graphing capabilities.  
    * **Best For**: Production business intelligence, financial risk dashboards, and mission-critical enterprise analytics.
 
-5. **[Taipy](https://github.com/Avaiga/taipy)** [![GitHub Stars](https://img.shields.io/github/stars/Avaiga/taipy?style=social&color=white)](https://github.com/Avaiga/taipy/stargazers)  
+5. **[Taipy](https://github.com/Avaiga/taipy)** [![GitHub_Stars](https://img.shields.io/github/stars/Avaiga/taipy?style=social&color=white)](https://github.com/Avaiga/taipy/stargazers)  
    🏎️ **High-performance data applications and scenario/pipeline management designed for production ML.**  
    * **License**: Apache-2.0  
    * **Key Strengths**: Built specifically to handle large datasets without client latency; native workflow pipeline scheduling and "what-if" scenario evaluation engines; dynamic pre-built UI components.  
    * **Best For**: Enterprise decision support systems, AI scenario comparisons, and production operational dashboards.
 
-6. **[NiceGUI](https://github.com/zauberzeug/nicegui)** [![GitHub Stars](https://img.shields.io/github/stars/zauberzeug/nicegui?style=social&color=white)](https://github.com/zauberzeug/nicegui/stargazers)  
+6. **[NiceGUI](https://github.com/zauberzeug/nicegui)** [![GitHub_Stars](https://img.shields.io/github/stars/zauberzeug/nicegui?style=social&color=white)](https://github.com/zauberzeug/nicegui/stargazers)  
    🪄 **Gentle, versatile web-based user interface framework powered by FastAPI, Vue, and Quasar.**  
    * **License**: MIT  
    * **Key Strengths**: Super intuitive API for standard web widgets, 3D scene rendering, robotics control, and camera streams; automatic live-reloading during local development.  
    * **Best For**: Robotics interfaces, smart home dashboards, IoT controllers, and light-weight data science tools.
 
-7. **[Voilà](https://github.com/voila-dashboards/voila)** [![GitHub Stars](https://img.shields.io/github/stars/voila-dashboards/voila?style=social&color=white)](https://github.com/voila-dashboards/voila/stargazers)  
+7. **[Voilà](https://github.com/voila-dashboards/voila)** [![GitHub_Stars](https://img.shields.io/github/stars/voila-dashboards/voila?style=social&color=white)](https://github.com/voila-dashboards/voila/stargazers)  
    📓 **Instant conversion of Jupyter Notebooks into standalone, secure web applications.**  
    * **License**: BSD-3-Clause  
    * **Key Strengths**: Directly renders notebook markdown and outputs while completely suppressing raw code cells; executes widgets via the Jupyter interactive kernel (`ipywidgets`); zero frontend rewrite required.  
    * **Best For**: Sharing notebook findings with non-technical stakeholders without modifying source notebooks.
 
-8. **[Panel (HoloViz)](https://github.com/holoviz/panel)** [![GitHub Stars](https://img.shields.io/github/stars/holoviz/panel?style=social&color=white)](https://github.com/holoviz/panel/stargazers)  
+8. **[Panel (HoloViz)](https://github.com/holoviz/panel)** [![GitHub_Stars](https://img.shields.io/github/stars/holoviz/panel?style=social&color=white)](https://github.com/holoviz/panel/stargazers)  
    🔬 **High-level app and dashboarding solution for the broader PyData and HoloViz ecosystem.**  
    * **License**: BSD-3-Clause  
    * **Key Strengths**: Seamless interoperability with Bokeh, Matplotlib, Altair, Plotly, and Datashader; effortlessly handles billions of data points through server-side downsampling.  
    * **Best For**: Scientific visualization, geospatial data exploration, and big data dashboards.
 
-9. **[Mercury](https://github.com/mljar/mercury)** [![GitHub Stars](https://img.shields.io/github/stars/mljar/mercury?style=social&color=white)](https://github.com/mljar/mercury/stargazers)  
+9. **[Mercury](https://github.com/mljar/mercury)** [![GitHub_Stars](https://img.shields.io/github/stars/mljar/mercury?style=social&color=white)](https://github.com/mljar/mercury/stargazers)  
    ⚙️ **Turn Jupyter Notebooks into web apps and reports using simple YAML configuration headers.**  
    * **License**: Apache-2.0  
    * **Key Strengths**: Add interactive widgets (sliders, file pickers, text inputs) to standard notebooks via simple YAML frontmatter; built-in export to PDF/HTML and scheduled execution.  
    * **Best For**: Automated reporting, parameterized notebook executions, and scheduled analytical tasks.
 
-10. **[Solara](https://github.com/widgetti/solara)** [![GitHub Stars](https://img.shields.io/github/stars/widgetti/solara?style=social&color=white)](https://github.com/widgetti/solara/stargazers)  
+10. **[Solara](https://github.com/widgetti/solara)** [![GitHub_Stars](https://img.shields.io/github/stars/widgetti/solara?style=social&color=white)](https://github.com/widgetti/solara/stargazers)  
     🧩 **Pure Python, React-style component framework utilizing hooks for scalable state management.**  
     * **License**: Apache-2.0  
     * **Key Strengths**: Implements React-like paradigms (`use_state`, `use_effect`, component trees) directly in Python; executes both inside Jupyter notebooks and as standalone web applications.  
     * **Best For**: Large modular data science apps requiring systematic code organization and reusable component architecture.
 
-11. **[Shiny for Python](https://github.com/posit-dev/py-shiny)** [![GitHub Stars](https://img.shields.io/github/stars/posit-dev/py-shiny?style=social&color=white)](https://github.com/posit-dev/py-shiny/stargazers)  
+11. **[Shiny for Python](https://github.com/posit-dev/py-shiny)** [![GitHub_Stars](https://img.shields.io/github/stars/posit-dev/py-shiny?style=social&color=white)](https://github.com/posit-dev/py-shiny/stargazers)  
     🎯 **The proven reactive programming model from Posit, reimagined natively for Python.**  
     * **License**: MIT  
     * **Key Strengths**: Strict computational graph recalculation—only recalculates functions whose specific dependencies have changed, eliminating wasteful reruns; built-in WebAssembly (Shinylive) client-side execution.  
     * **Best For**: High-performance statistical dashboards, reactive enterprise analytics, and serverless client-side web apps.
 
-12. **[Anvil Runtime](https://github.com/anvil-works/anvil-runtime)** [![GitHub Stars](https://img.shields.io/github/stars/anvil-works/anvil-runtime?style=social&color=white)](https://github.com/anvil-works/anvil-runtime/stargazers)  
+12. **[Anvil Runtime](https://github.com/anvil-works/anvil-runtime)** [![GitHub_Stars](https://img.shields.io/github/stars/anvil-works/anvil-runtime?style=social&color=white)](https://github.com/anvil-works/anvil-runtime/stargazers)  
     🛠️ **Open-source execution engine for self-hosting full-stack Anvil web applications.**  
     * **License**: AGPL-3.0  
     * **Key Strengths**: Complete freedom to self-host Anvil apps on private servers or Docker containers; eliminates cloud vendor lock-in while preserving Python-only architecture.  
